@@ -1,0 +1,11 @@
+:root{
+   --color-primary:rgb(195, 2, 2);
+   --color-primary-dark:rgb(201, 13, 13);
+
+   --color-secondary:rgb(202, 33, 33);
+   --color-primary:rgb(180, 14, 14);
+
+   --color-primary-dark:rgb(219, 16, 16);
+   --color-primary:rgb(45, 43, 43);
+   --color-primary:rgb(15, 13, 13);
+}

@@ -1,0 +1,22 @@
+header{
+    padding: 40px;
+    text-align: center;
+    background-image: url("../img/fondo.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header h1{
+    font-size: 40px;
+    margin:  0 0 20px;
+}
+
+header p{
+    margin: 0 0 10px;
+}
+
+header div{
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}

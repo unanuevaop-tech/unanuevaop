@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(9, 8, 8);
+
+}
+.navbar a{
+    color: rgb(225, 226, 226);
+    padding: 14px 20px ;
+    text-decoration: none;
+    text-align: center;
+
+}
+ 
+.navbar a:hover{
+    background-color:rgb(108, 102, 102)
+}
+

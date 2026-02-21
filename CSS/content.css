@@ -1,0 +1,47 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.main{
+    flex: 500px;
+   height: 1400px;
+    background-color:rgb(225, 230, 226) ;
+    padding: 20px;
+}
+h2{
+    text-transform: uppercase;
+    margin-top: 40px;
+    color: var(--color-primary);
+}
+.main img{
+    width: 100%;
+   object-fit: cover;
+    height: 200px;
+}
+.main .read-more{
+    color: rgb(102, 91, 91);
+    text-decoration: none;
+    background-color:rgb(209, 209, 222);
+    padding: 10px;
+    border-radius: 10px;
+    }
+.main .read-more:hover{
+    background-color:black;
+}
+
+.ver{
+    display: block;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 40px;
+    ;
+}
+main .ver:hover{
+    background-color:rgb(224, 196, 196);
+}
+
+
